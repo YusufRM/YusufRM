@@ -28,6 +28,7 @@ I'm a Computer Science student, a deep learning enthusiast, and co-founder of Sc
 ---
 
 ## 📫 Reach Me
+- Linkedin: https://www.linkedin.com/in/yusuf-r-mohammed-649b61228
 - Email: [yusufredwan50@gmail.com](mailto:Yusufredwan50@gmail.com)
 - Website: Yusufrm.com
 
