@@ -1,37 +1,19 @@
-# Hi, I'm Yusuf 👋
+# Yusuf R. Mohammed
 
-I'm a Computer Science student, a deep learning enthusiast, and co-founder of Sconix AI. I’m currently focused on building real-world AI products to solve impactful problems.
+I study how intelligence works and build systems that think.
 
----
+My work sits at the intersection of **computational intelligence**, **systems design**, and **software engineering** — exploring how structure, patterns, and learning emerge in both biological and artificial systems.
 
-## 🚀 What I'm Working On
-- Building AI products with Sconix AI
-- Weekly AI projects covering the full stack (vision, NLP, agents, etc.)
-- Robotics with autonomous AI control
+### Currently
 
----
+- Designing computational models of cognition and learning
+- Building intelligent systems with Python and PyTorch
+- Researching the structural patterns behind human and machine intelligence
 
-## 🧠 Interests
-- Deep Learning
-- Full-Stack AI Engineering
-- Intelligent Systems
-- AI for social impact
-- Personal productivity systems
+### Technical
 
----
+`Python` `PyTorch` `TypeScript` `Next.js` `Linux` `Systems Design`
 
-## 🛠️ Tools & Tech
-- Python, PyTorch, JavaScript
-- React, Next.js, Tailwind CSS
-- Docker, Linux, NVIDIA GPUs
+### Connect
 
----
-
-## 📫 Reach Me
-- Linkedin: https://www.linkedin.com/in/yusuf-r-mohammed-649b61228
-- Email: [yusufredwan50@gmail.com](mailto:Yusufredwan50@gmail.com)
-- Website: Yusufrm.com
-
----
-
-Thanks for visiting! 😊
+[Website](https://yusufrm.com) &#183; [LinkedIn](https://www.linkedin.com/in/yusuf-r-mohammed-649b61228) &#183; [Email](mailto:yusufredwan50@gmail.com)
