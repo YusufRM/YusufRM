@@ -19,6 +19,6 @@ each deployed with TLS, Postgres, Redis, and migrations.
 ### Also
 
 Python · async · FastAPI · PyTorch / vLLM · the Anthropic API · Docker · Next.js ·
-Hetzner. B.S. Computer Science — [capstone ePortfolio](https://github.com/YusufRM/cs499-eportfolio).
+Hetzner. B.S. Computer Science.
 
 📬 yusufredwan50@gmail.com
